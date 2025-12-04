@@ -52,7 +52,7 @@ A professional video player built with SwiftUI and Clean Architecture.
 
 ## Requirements
 
-* iOS 14.0+
+* iOS 15.0+
 * Xcode 14.0+
 * Swift 5.5+
 
